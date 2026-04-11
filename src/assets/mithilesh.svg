@@ -1,0 +1,20 @@
+<svg viewBox="0 0 360 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-gradient-1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a274d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0e1222;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient id="glow-1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#ffd77a;stop-opacity:0.4" />
+      <stop offset="100%" style="stop-color:#ffd77a;stop-opacity:0" />
+    </radialGradient>
+  </defs>
+  <rect width="360" height="420" fill="url(#bg-gradient-1)"/>
+  <circle cx="180" cy="120" r="110" fill="url(#glow-1)"/>
+  <circle cx="180" cy="120" r="90" fill="#1a3a7a" opacity="0.6"/>
+  <circle cx="170" cy="110" r="45" fill="#2a5aaa"/>
+  <circle cx="190" cy="110" r="40" fill="#1a4a8a"/>
+  <ellipse cx="180" cy="160" rx="35" ry="45" fill="#2a5aaa"/>
+  <rect x="140" y="190" width="80" height="120" rx="10" fill="#3a6aba" opacity="0.7"/>
+  <text x="180" y="370" font-family="Georgia, serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#ffd77a">Mithilesh</text>
+</svg>

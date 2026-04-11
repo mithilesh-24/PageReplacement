@@ -1,0 +1,20 @@
+<svg viewBox="0 0 360 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-gradient-2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2d1a4d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a0e2d;stop-opacity:1" />
+    </linearGradient>
+    <radialGradient id="glow-2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#7ca1ff;stop-opacity:0.4" />
+      <stop offset="100%" style="stop-color:#7ca1ff;stop-opacity:0" />
+    </radialGradient>
+  </defs>
+  <rect width="360" height="420" fill="url(#bg-gradient-2)"/>
+  <circle cx="180" cy="120" r="110" fill="url(#glow-2)"/>
+  <circle cx="180" cy="120" r="90" fill="#3a2a7a" opacity="0.6"/>
+  <circle cx="165" cy="105" r="48" fill="#5a4aaa"/>
+  <circle cx="195" cy="105" r="42" fill="#4a3a8a"/>
+  <ellipse cx="180" cy="165" rx="38" ry="48" fill="#5a4aaa"/>
+  <rect x="135" y="195" width="90" height="115" rx="10" fill="#4a3a9a" opacity="0.7"/>
+  <text x="180" y="370" font-family="Georgia, serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#7ca1ff">Mirtula</text>
+</svg>
