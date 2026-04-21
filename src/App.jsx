@@ -119,7 +119,6 @@ function App() {
                 <img src={member.photo} alt={member.name} className="person-photo" />
                 <div className="person-content">
                   <h3>{member.name}</h3>
-                  <p className="person-role">{member.role}</p>
                 </div>
               </article>
             ))}
