@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import PageRplacement from './Pagereplacementsimulator'
-import mithileshPhoto from './assets/mithilesh.svg'
-import mirtulaPhoto from './assets/mirtula.svg'
-import mithunPhoto from './assets/mithun.svg'
+import mithileshPhoto from './assets/mithilesh.jpeg'
+import mirtulaPhoto from './assets/mirtula.jpeg'
+import mithunPhoto from './assets/mithun.jpeg'
 import './App.css'
 
 function App() {
