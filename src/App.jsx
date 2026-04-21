@@ -12,19 +12,16 @@ function App() {
     {
       name: 'Mithilesh B R',
       role: 'Algorithm Design & Optimization',
-      contribution: 'Designed the core page replacement algorithms and optimized performance metrics for the simulator.',
       photo: mithileshPhoto,
     },
     {
       name: 'Mirtula',
       role: 'Frontend Development',
-      contribution: 'Built the interactive UI components and responsive design for seamless user experience.',
       photo: mirtulaPhoto,
     },
     {
       name: 'Mithun Chakravarthy',
       role: 'Data Visualization',
-      contribution: 'Created the visualization engine that makes algorithm behavior clear and intuitive.',
       photo: mithunPhoto,
     },
   ]
@@ -126,7 +123,6 @@ function App() {
                 <div className="person-content">
                   <h3>{member.name}</h3>
                   <p className="person-role">{member.role}</p>
-                  <p className="person-contrib">{member.contribution}</p>
                 </div>
               </article>
             ))}

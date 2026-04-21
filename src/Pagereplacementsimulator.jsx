@@ -251,7 +251,7 @@ function CompareChart({ entry }) {
 }
 
 /* ─── Root App ────────────────────────────────────────────────────── */
-export default function App() {
+export default function App() {bonsai start
   const [pageString, setPageString] = useState("1 2 3 4 1 2 5 1 2 3 4 5");
   const [frameCount, setFrameCount] = useState(4);
   const [pages, setPages] = useState([1, 2, 3, 4, 1, 2, 5, 1, 2, 3, 4, 5]);
