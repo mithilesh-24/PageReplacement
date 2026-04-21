@@ -11,17 +11,14 @@ function App() {
   const team = [
     {
       name: 'Mithilesh B R',
-      role: 'Algorithm Design & Optimization',
       photo: mithileshPhoto,
     },
     {
       name: 'Mirtula',
-      role: 'Frontend Development',
       photo: mirtulaPhoto,
     },
     {
       name: 'Mithun Chakravarthy',
-      role: 'Data Visualization',
       photo: mithunPhoto,
     },
   ]
