@@ -14,11 +14,11 @@ function App() {
       photo: mithileshPhoto,
     },
     {
-      name: 'Mirtula',
+      name: 'Mirtula S',
       photo: mirtulaPhoto,
     },
     {
-      name: 'Mithun Chakravarthy',
+      name: 'Mithun Chakravarthy U M',
       photo: mithunPhoto,
     },
   ]
